@@ -4,3 +4,4 @@
 
 <h1>Skill sets</h1>
 These are some of the major technologies that I use
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
