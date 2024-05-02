@@ -5,6 +5,6 @@
 
 
 <h1>Skill sets</h1>
-These are some of the major technologies that I use
+These are some of the major technologies that I use <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,sass,tailwind,mongodb,nodejs,express,html,css,cpp,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,sass,tailwind,mongodb,nodejs,express,html,css,cpp,java,figma)](https://skillicons.dev)
