@@ -2,8 +2,8 @@
 
 
 
-<p>I'm Ruhamma, a web developer with a knack for crafting engaging and functional web applications.While I'm full-stack capable, my true passion lies in crafting beautiful and functional front-end experiences.
-</p>
+<h3>I'm Ruhamma, a web developer with a knack for crafting engaging and functional web applications.While I'm full-stack capable, my true passion lies in crafting beautiful and functional front-end experiences.
+</h3>
 
 
 
