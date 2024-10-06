@@ -1,9 +1,3 @@
-<h1> Hi there <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
-
-
-<p style="font-size: 1.2em;" >I'm Ruhamma, a web developer with a knack for crafting engaging and functional web applications.While I'm full-stack capable, my true passion lies in crafting beautiful and functional front-end experiences.
-</p>
 
 
 
